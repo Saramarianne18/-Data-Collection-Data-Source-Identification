@@ -1,4 +1,5 @@
-# Data Collection & Data Source Identification
+# TITANIC EDA ANALYSIS
+## Task 1: Data Collection & Data Source Identification
 **Edutech Solution — Data Analytics Internship**
 
 ---
@@ -124,6 +125,66 @@ Through this task, I was able to:
 > - **Excel (.xlsx)** — Spreadsheet format used in business
 > - **XML** — Hierarchical format used in legacy systems
 
+
+---
+
+## Task 2: Data Cleaning and Preprocessing
+
+---
+
+## Deliverables
+
+### Clean Dataset
+**File:** `titanic.csv`
+
+**Contains:**
+- No missing values  
+- No duplicates  
+- Normalized numerical features  
+- Outliers removed  
+
+---
+
+### Preprocessing Code
+- Implemented using Python (Pandas, NumPy, Scikit-learn)  
+- Covers:
+  - Handling missing values  
+  - Removing duplicates  
+  - Feature normalization  
+  - Outlier detection and removal  
+
+---
+
+## Final Outcome
+
+Through this task, I gained understanding of:
+- Data cleaning techniques  
+- Handling missing values  
+- Feature scaling  
+- Outlier detection  
+
+The dataset is now clean and ready for:
+- Data analysis  
+ 
+
+---
+
+## Interview Questions & Answers
+
+### Q1: What is data cleaning?
+Data cleaning is the process of fixing or removing incorrect, missing, or inconsistent data to improve data quality before analysis.
+
+
+
+### Q2: How to handle missing values?
+- Fill with mean/median (numerical data)  
+- Fill with mode (categorical data)  
+- Drop rows or columns if necessary  
+
+
+
+### Q3: What are outliers?
+Outliers are extreme values that are very different from other data points and can affect analysis results.
 
 ---
 
