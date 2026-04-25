@@ -1,5 +1,5 @@
 # TITANIC EDA ANALYSIS
-## Task 1: Data Collection & Data Source Identification
+## Task 1 Report: Data Collection & Data Source Identification
 **Edutech Solution — Data Analytics Internship**
 
 ---
@@ -128,4 +128,4 @@ Through this task, I was able to:
 
 ---
 
-**Author:** Marianne Ongondi | Data Analytics Intern — Edutech Solution
+**Author:** Marianne Ongondi 
