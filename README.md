@@ -1,4 +1,4 @@
-# TITANIC EDA ANALYSIS
+# TITANIC DATASET ANALYSIS
 ## Task 1 Report: Data Collection & Data Source Identification
 **Edutech Solution — Data Analytics Internship**
 
